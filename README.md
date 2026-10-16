@@ -1,1 +1,1 @@
-# churn-analysis-project
+# Python Project(churn analysis)
